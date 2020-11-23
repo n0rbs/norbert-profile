@@ -27,6 +27,8 @@
 * You must create the IBP instance first then the URL and credentials will be utilized by the automated sript
 * See repository: https://github.com/n0rbs/puppeteer-blockchain-platform
 
+<img width="1638" alt="ibp-01" src="https://user-images.githubusercontent.com/2144028/99945622-e8037700-2daf-11eb-8bb7-72451c4097ec.png">
+
 ### Invoices
 
 * An internal invoicing application written in AngularJS, while the API is written in ExpressJS
