@@ -27,6 +27,11 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 * **Nginx ingress** - Specific requests coming from the client app will be handled by the nginx ingress controller. A specific route will be directed to a specific API's k8s service resource. 
 * **SSL** - I'm using Let's Encrypt for my security certificates, which I use in my frontend and backend services.
 
+**Architecture**
+
+<img width="1274" alt="architecture-01" src="https://user-images.githubusercontent.com/2144028/99978822-64fb1480-2de1-11eb-89b2-531c2dd92d54.png">
+
+**Dashboard application**
 
 <img width="982" alt="cdp-01" src="https://user-images.githubusercontent.com/2144028/99944712-53e4e000-2dae-11eb-97e9-1d579d985dfd.png">
 <img width="988" alt="cdp-02" src="https://user-images.githubusercontent.com/2144028/99944750-6101cf00-2dae-11eb-9e4c-b27fdb9689de.png">
