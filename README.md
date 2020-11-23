@@ -31,3 +31,6 @@
 
 * An internal invoicing application written in AngularJS, while the API is written in ExpressJS
 * Requires internal access: https://www.ibm.com/support/customer/zz/en/invoices.html
+
+<img width="1588" alt="invoices-01" src="https://user-images.githubusercontent.com/2144028/99945003-ce156480-2dae-11eb-8be4-d1dc591a028b.png">
+
