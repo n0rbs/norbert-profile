@@ -21,7 +21,7 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 * **Packaging the apps** - Using GitHub's packaging service, I maintain two images, latest and second newest tag. Once a new version is released, the oldest version will be purged.
 * **Deployment** - A custom DigitalOcean plugin is installed in the pipeline to allow GitHub actions access to the kubernetes cluster.
 
-**Cloud infrastructure and apps**
+**Cloud infrastructure and networking**
 * **Kubernetes cluster** - The UI, APIs, cron jobs, ETL, and Cloudant are currently deployed in DigitalOcean's Kubernetes droplet. Each app has it's own pod. Pods communicate via service resource or accessing the internal route.
 * **Load balancer** - A load balancer was required to handle the traffic coming in. Traffic will be directed to the Nginx ingress controllers. Another 3rd party domain service hanlder manages the domain and configuration.
 * **Nginx ingress** - Specific requests coming from the client app will be handled by the nginx ingress controller. A specific route will be directed to a specific API's k8s service resource. 
