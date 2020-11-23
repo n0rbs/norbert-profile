@@ -1,6 +1,6 @@
 ## Featured projects
 
-### Budget hotel dashboard
+### Budget hotel system
 
 * A fully deployed and utilized hotel management system for a small apartment
 * This system is composed of a single page app, written in React, and multiple micro services running on a Kubernetes cluster
