@@ -14,7 +14,7 @@
 * An Nginx ingress has been configured to accept http/https traffic directed to the UI (frontend) or APIs (backend)
 * I'm using Let's Encrypt for my security certificates, which I use in my frontend and backend services
 
-**Important Note**: This is personal project that I made, on my spare time, so that I can continue to code, try new capabilities with K8s and create an application with a micro service philosphy.
+**Important Note**: This is personal project that I made, on my spare time, so that I can continue to code, try new capabilities with K8s and create an application with a microservices design pattern philosphy.
 
 ### Creating a new Fabric network in IBP
 
