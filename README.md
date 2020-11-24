@@ -19,6 +19,8 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 **CI/CD**
 * **Containerization** - I'm using GitHub Actions to build the docker images, package and deploy them to the GitHub docker respository. All UI, API and cron job services are containerized.
 * **Packaging the apps** - Using GitHub's packaging service, I maintain two images, latest and second newest tag. Once a new version is released, the oldest version will be purged.
+
+  <img width="312" alt="packages-01" src="https://user-images.githubusercontent.com/2144028/100062214-383f0f80-2e6a-11eb-83db-97e7286a25bc.png">
 * **Deployment** - A custom DigitalOcean plugin is installed in the pipeline to allow GitHub actions access to the kubernetes cluster.
 
 **Cloud infrastructure and networking**
