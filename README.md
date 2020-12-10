@@ -83,7 +83,7 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 
 ### 5. E-paper SPH projects
 
-* A few publicly accessible paper which showcases the e-paper. You can view the e-paper on your mobile browser
+* A few publicly accessible newspaper which showcases the e-paper. You can view the e-paper on your mobile browser
   * The New Paper - https://epaper.tnp.sg/jr/jc.api.d.php
   * Tabla - https://www.tabla.com.sg/jr/jrpc.php
 
