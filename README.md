@@ -6,7 +6,7 @@
  
     *"... I would thank all the teams involved into this Strategic Initiative for the hard work, effort and dedication to keep the date and scope planned for this Release 1.0. This is a very big achievement and demonstration of a real cooperation between different squads that are applying Agile methodology, that is itself a success*
     
-    *Allow me to **personally thank @Dela Pena, Norbert Aluba (Norbert Aluba) from Engage Support team who has worked really days and nights** during the last period to complete all the MTP activities and @RAMOS LERMA, JORGE A (Jorge) who is driving us in a so complex project.”* 
+    *Allow me to **personally thank @Dela Pena, Norbert Aluba (Norbert Aluba) from Engage Support team who has worked really days and nights** during the last period to complete all the MTP activities and ... JORGE A (Jorge) who is driving us in a so complex project.”* 
 
     by ***Sabrina (IBM Italia - PM) May 2017***
 
