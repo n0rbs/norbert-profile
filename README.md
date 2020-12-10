@@ -1,6 +1,22 @@
+## Published articles & testimonials from projects and engagements
+
+**Invoices application**
+ * ***Gold recipient of the Stevie Awards 2019 (Customer Service Success)*** - The award was accepted by one of our global stakeholders, https://www.youtube.com/watch?v=8KO-O80GbH4, who we collaborated during project development. Link to article, https://stevieawards.com/sales/ibm-customer-service-success. 
+ * The ***first IBM client facing application that is only using the Cloudant database as main database*** service. We're the first team in IBM to achieve this milestone.
+ 
+    *"... I would thank all the teams involved into this Strategic Initiative for the hard work, effort and dedication to keep the date and scope planned for this Release 1.0. This is a very big achievement and demonstration of a real cooperation between different squads that are applying Agile methodology, that is itself a success*
+    
+    *Allow me to personally thank @Dela Pena, Norbert Aluba (Norbert Aluba) from Engage Support team who has worked really days and nights during the last period to complete all the MTP activities and @RAMOS LERMA, JORGE A (Jorge) who is driving us in a so complex project.”* - ***Sabrina (IBM Italia - PM) May 2017"***
+
+**BCI migration** 
+  * Successfully migrated the Fabric version, from v1.1 to v1.4LTS, and IBM Blockchain Platform version, from v1.0 to v2.0. - https://www.bci.network/post/international-business-machines-bci-in-collaboration-with-ibm-advances-blockchain-based-financial?lang=en
+
+    *"We had a call with BCI Executives today and I’d like to personally thank you for the amazing work you did with our BCI Blockchain Network migration. I understand from the team that you have been helping 15 BCI members since end of June, with long hours of conference calls to guide our clients on the migration steps....it’s called out as one of the best engagements we have had with them so far. "* - ***Patama Chantaruck (VP For Indochina Expansion And MD Of IBM Thailand IBM) - Sep 2020***
+ 
+
 ## Featured projects
 
-### Budget hotel system
+### 1. Budget hotel system
 
 A fully deployed and utilized hotel management system for a small apartment. This system is composed of a single page app, written in React, and multiple microservices running on a Kubernetes cluster. IOT devices are also setup to automate lights based on guest schedule.
 
@@ -38,11 +54,16 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 <img width="982" alt="cdp-01" src="https://user-images.githubusercontent.com/2144028/99944712-53e4e000-2dae-11eb-97e9-1d579d985dfd.png">
 <img width="988" alt="cdp-02" src="https://user-images.githubusercontent.com/2144028/99944750-6101cf00-2dae-11eb-9e4c-b27fdb9689de.png">
 
-
-
 **Important Note**: This is personal project that I made, on my spare time, so that I can continue to code, try new capabilities with K8s and create an application with a microservices design pattern philosphy.
 
-### Creating a new Fabric network in IBP
+### 2. Invoices
+
+* An internal invoicing application written in AngularJS, while the API is written in ExpressJS
+* Requires internal access: https://www.ibm.com/support/customer/zz/en/invoices.html
+
+<img width="1588" alt="invoices-01" src="https://user-images.githubusercontent.com/2144028/99945003-ce156480-2dae-11eb-8be4-d1dc591a028b.png">
+
+### 3. Creating a new Fabric network in IBP
 
 * This customizable script uses puppeteer to create an IBM Blockchain Platform network (IBP)
 * You must create the IBP instance first then the URL and credentials will be utilized by the automated sript
@@ -50,10 +71,8 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 
 <img width="1638" alt="ibp-01" src="https://user-images.githubusercontent.com/2144028/99945622-e8037700-2daf-11eb-8bb7-72451c4097ec.png">
 
-### Invoices
+### 4. Student management API 
 
-* An internal invoicing application written in AngularJS, while the API is written in ExpressJS
-* Requires internal access: https://www.ibm.com/support/customer/zz/en/invoices.html
-
-<img width="1588" alt="invoices-01" src="https://user-images.githubusercontent.com/2144028/99945003-ce156480-2dae-11eb-8be4-d1dc591a028b.png">
-
+* Developed this RESTful API in the past few days - a total of 48hours of development
+* This is an end-to-end application development, from coding to Cloud hosting deployment. 
+* See repository: https://github.com/n0rbs/student-teacher-api
