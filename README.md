@@ -80,3 +80,11 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 * Developed this RESTful API in the past few days - a total of 48hours of development
 * This is an end-to-end application development, from coding to Cloud hosting deployment. 
 * See repository: https://github.com/n0rbs/student-teacher-api
+
+### 5. E-paper SPH projects
+
+* A few publicly accessible paper which showcases the e-paper. You can view the e-paper on your mobile browser
+  * The New Paper - https://epaper.tnp.sg/jr/jc.api.d.php
+  * Tabla - https://www.tabla.com.sg/jr/jrpc.php
+
+<img width="1237" alt="epaper" src="https://user-images.githubusercontent.com/2144028/101751662-7d6e6d00-3b0b-11eb-942d-fe36583269cb.png">
