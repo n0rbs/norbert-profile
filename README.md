@@ -1,19 +1,19 @@
 ## Published articles & testimonials from projects and engagements
 
 **Invoices application**
- * ***Gold recipient of the Stevie Awards 2019 (Customer Service Success)*** - The award was accepted by one of our global stakeholders, https://www.youtube.com/watch?v=8KO-O80GbH4, who we collaborated during project development. Link to article, https://stevieawards.com/sales/ibm-customer-service-success. 
- * The ***first IBM client facing application that is only using the Cloudant database as main database*** service. We're the first team in IBM to achieve this milestone.
+ * Gold recipient of the Stevie Awards 2019 (Customer Service Success) - The award was accepted by one of our global stakeholders, https://www.youtube.com/watch?v=8KO-O80GbH4, who we collaborated during project development. Link to article, https://stevieawards.com/sales/ibm-customer-service-success. 
+ * The first IBM client facing application that is only using the Cloudant database as main database service. We're the first team in IBM to achieve this milestone.
  
     *"... I would thank all the teams involved into this Strategic Initiative for the hard work, effort and dedication to keep the date and scope planned for this Release 1.0. This is a very big achievement and demonstration of a real cooperation between different squads that are applying Agile methodology, that is itself a success*
     
-    *Allow me to **personally thank @Dela Pena, Norbert Aluba (Norbert Aluba) from Engage Support team who has worked really days and nights** during the last period to complete all the MTP activities and ... JORGE A (Jorge) who is driving us in a so complex project.”* 
+    *Allow me to personally thank @Dela Pena, Norbert Aluba (Norbert Aluba) from Engage Support team who has worked really days and nights during the last period to complete all the MTP activities and ... JORGE A (Jorge) who is driving us in a so complex project.”* 
 
     by ***Sabrina (IBM Italia - PM) May 2017***
 
 **BCI migration** 
   * Successfully migrated the Fabric version, from v1.1 to v1.4 LTS, and IBM Blockchain Platform version, from v1.0 to v2.0. Link to the article, https://www.bci.network/post/international-business-machines-bci-in-collaboration-with-ibm-advances-blockchain-based-financial?lang=en, detailing the milestone
 
-    *"We had a call with BCI Executives today and I’d like to personally thank you for the amazing work you did with our BCI Blockchain Network migration. I understand from the team that you have been helping 15 BCI members since end of June, with long hours of conference calls to guide our clients on the migration steps....**it’s called out as one of the best engagements we have had with them** so far. "*
+    *"We had a call with BCI Executives today and I’d like to personally thank you for the amazing work you did with our BCI Blockchain Network migration. I understand from the team that you have been helping 15 BCI members since end of June, with long hours of conference calls to guide our clients on the migration steps....it’s called out as one of the best engagements we have had with them so far. "*
 
     by ***Patama Chantaruck (VP For Indochina Expansion And MD Of IBM Thailand IBM) - Sep 2020***
  
