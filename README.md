@@ -12,6 +12,12 @@
 
 **BCI migration** 
   * Successfully migrated the Fabric version, from v1.1 to v1.4 LTS, and IBM Blockchain Platform version, from v1.0 to v2.0. Link to the article, https://www.bci.network/post/international-business-machines-bci-in-collaboration-with-ibm-advances-blockchain-based-financial?lang=en, detailing the milestone
+  
+    From BCI
+
+    *"...The major upgrade from Hyperledger Fabric v1.1 to Hyperledger Fabric v1.4 LTS posed huge business and technical challenges, with months of preparation and tremendous effort from all 15 participating entities working closely together on improving the business processes, security, governance, compliance and technical resources. **The IBM team's strong commitment and outstanding support to BCI made this upgrade to global best practices a great success with zero downtime,' said Siriwat Keatcharoensin, President of BCI (Thailand) Co., Ltd.** 'With IBM Blockchain as the technology foundation, and with the innovation milestone we achieved today, we are ready to welcome new members to our eLG platform and collectively bring maximum efficiency to business transactions in Thailand. ..."*
+    
+    From IBM
 
     *"We had a call with BCI Executives today and I’d like to personally thank you for the amazing work you did with our BCI Blockchain Network migration. I understand from the team that you have been helping 15 BCI members since end of June, with long hours of conference calls to guide our clients on the migration steps....it’s called out as one of the best engagements we have had with them so far. "*
 
