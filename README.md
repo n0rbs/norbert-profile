@@ -11,7 +11,7 @@
     by ***Sabrina (IBM Italia - PM) May 2017***
 
 **BCI migration** 
-  * Successfully migrated the Fabric version, from v1.1 to v1.4 LTS, and IBM Blockchain Platform version, from v1.0 to v2.0. Link to the article, https://www.bci.network/post/international-business-machines-bci-in-collaboration-with-ibm-advances-blockchain-based-financial?lang=en, detailing the milestone
+  * Successfully migrated the Fabric version, from v1.1 to v1.4 LTS, and IBM Blockchain Platform version, from v1.0 to v2.0. Link to the article, https://en.bci.network/post/bci-in-collaboration-with-ibm-advances-blockchain-based-financial-services-with-elg-1, detailing the milestone
   
     From BCI
 
@@ -64,7 +64,7 @@ A fully deployed and utilized hotel management system for a small apartment. Thi
 <img width="982" alt="cdp-01" src="https://user-images.githubusercontent.com/2144028/99944712-53e4e000-2dae-11eb-97e9-1d579d985dfd.png">
 <img width="988" alt="cdp-02" src="https://user-images.githubusercontent.com/2144028/99944750-6101cf00-2dae-11eb-9e4c-b27fdb9689de.png">
 
-**Important Note**: This is personal project that I made, on my spare time, so that I can continue to code, try new capabilities with K8s and create an application with a microservices design pattern philosphy.
+**Important Note**: Majority of my past projects are internal projects so I can only showcase my own work and other publicly accessible projects. This is personal project that I made, on my spare time, so that I can continue to code, try new capabilities with K8s and create an application with a microservices design pattern philosphy.
 
 ### 2. Invoices
 
